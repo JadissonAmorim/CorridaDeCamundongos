@@ -21,4 +21,12 @@ namespace EntityCamundogos;
     {
         return Name + " : " + Distancia;
     }
+        public int position(int posicao){
+            if(Distancia == 100 && Colocação == 0){
+                    Colocação = posicao;
+                    posicao++;
+                    return posicao;
+            }
+            return posicao;
+        }
     }
