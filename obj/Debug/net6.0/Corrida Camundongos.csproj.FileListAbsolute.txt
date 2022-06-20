@@ -1,0 +1,15 @@
+C:\Users\Jadoka\Desktop\Corrida Camundongos\obj\Debug\net6.0\Corrida Camundongos.csproj.AssemblyReference.cache
+C:\Users\Jadoka\Desktop\Corrida Camundongos\obj\Debug\net6.0\Corrida Camundongos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jadoka\Desktop\Corrida Camundongos\obj\Debug\net6.0\Corrida Camundongos.AssemblyInfoInputs.cache
+C:\Users\Jadoka\Desktop\Corrida Camundongos\obj\Debug\net6.0\Corrida Camundongos.AssemblyInfo.cs
+C:\Users\Jadoka\Desktop\Corrida Camundongos\obj\Debug\net6.0\Corrida Camundongos.csproj.CoreCompileInputs.cache
+C:\Users\Jadoka\Desktop\Corrida Camundongos\bin\Debug\net6.0\Corrida Camundongos.exe
+C:\Users\Jadoka\Desktop\Corrida Camundongos\bin\Debug\net6.0\Corrida Camundongos.deps.json
+C:\Users\Jadoka\Desktop\Corrida Camundongos\bin\Debug\net6.0\Corrida Camundongos.runtimeconfig.json
+C:\Users\Jadoka\Desktop\Corrida Camundongos\bin\Debug\net6.0\Corrida Camundongos.dll
+C:\Users\Jadoka\Desktop\Corrida Camundongos\bin\Debug\net6.0\Corrida Camundongos.pdb
+C:\Users\Jadoka\Desktop\Corrida Camundongos\obj\Debug\net6.0\Corrida Camundongos.dll
+C:\Users\Jadoka\Desktop\Corrida Camundongos\obj\Debug\net6.0\refint\Corrida Camundongos.dll
+C:\Users\Jadoka\Desktop\Corrida Camundongos\obj\Debug\net6.0\Corrida Camundongos.pdb
+C:\Users\Jadoka\Desktop\Corrida Camundongos\obj\Debug\net6.0\Corrida Camundongos.genruntimeconfig.cache
+C:\Users\Jadoka\Desktop\Corrida Camundongos\obj\Debug\net6.0\ref\Corrida Camundongos.dll
